@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column nowrap;
+  background-color: rgb(95, 180, 10);
+}
+#myCanvas {
+  border: solid black 2px;
+  background-color: cornflowerblue;
+}

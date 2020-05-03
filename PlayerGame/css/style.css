@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(241, 119, 48);
+}
+h1 {
+  color: whitesmoke;
+}
+#source {
+  display: none;
+}
+#myCanvas {
+  border: solid black 2px;
+  background-color: yellowgreen;
+}
